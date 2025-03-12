@@ -1,4 +1,4 @@
-package si.unilj.fi.uporabniskivmesniki;
+package si.unilj.fri.uporabniskivmesniki;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

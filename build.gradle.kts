@@ -23,8 +23,8 @@ tasks.compileJava {
 }
 
 application {
-    mainModule = "si.unilj.fi.uporabniskivmesniki"
-    mainClass = "si.unilj.fi.uporabniskivmesniki.HelloApplication"
+    mainModule = "si.unilj.fri.uporabniskivmesniki"
+    mainClass = "si.unilj.fri.uporabniskivmesniki.HelloApplication"
 }
 
 javafx {

@@ -1,4 +1,4 @@
-package si.unilj.fi.uporabniskivmesniki;
+package si.unilj.fri.uporabniskivmesniki;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
